@@ -1,4 +1,4 @@
 # js-tutorial
-Author-Sudip karmakar
+Author-Sudip-karmakar
 <br/>
 Video-Apna college
